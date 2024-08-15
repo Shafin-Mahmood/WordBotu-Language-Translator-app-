@@ -7,4 +7,4 @@ How to start it
 2- Go to the lib folder
 3- then run the file name "main"
 
-(Ouch, Github cant detect the language correctly in this case ,it is showing C++)
+(Ouch, Github cant detect the language correctly in this case ,it is showing C++, Keep in mind that its a Flutter Project)
