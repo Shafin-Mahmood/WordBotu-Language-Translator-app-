@@ -6,3 +6,5 @@ How to start it
 1 - Go to the project folder
 2- Go to the lib folder
 3- then run the file name "main"
+
+(Ouch, Github cant detect the language correctly in this case ,it is showing C++)
